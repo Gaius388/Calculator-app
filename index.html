@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator App</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body class="body theme__1">
+    <div class="container">
+        <div class="heading">
+            <p>calc</p>
+            <div class="main__toggle">
+                <div class="theme__text">Theme</div>
+                <div class="toggle__choice">
+                    <div class="toggle__choice1">
+                        <p>1</p>
+                        <p>2</p>
+                        <p>3</p>
+                    </div>
+                    <div class="toggle__choice2">
+                        <p class="btn btnColor1"></p>
+                        <p class="btn btnColor2"></p>
+                        <p class="btn btnColor3"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="input__container">
+            <div data-previous-operand class="previous-operand"></div>
+            <div data-current-operand class="current-operand"></div>
+        </div>
+        <div class="clickable">
+                <div class="theme__box" data-number>7</div>
+                <div class="theme__box" data-number>8</div>
+                <div class="theme__box" data-number>9</div>
+                <div class="del" data-delete>DEL</div>
+                <div class="theme__box" data-number>4</div>
+                <div class="theme__box" data-number>5</div>
+                <div class="theme__box" data-number>6</div>
+                <div class="add theme__box" data-operation>+</div>
+                <div class="theme__box" data-number>1</div>
+                <div class="theme__box" data-number>2</div>
+                <div class="theme__box" data-number>3</div>
+                <div class="minus theme__box" data-operation>-</div>
+                <div class="dot theme__box" data-number>.</div>
+                <div class="theme__box" data-number>0</div>
+                <div class="divide theme__box" data-operation>/</div>
+                <div class="multiply theme__box" data-operation>x</div>
+                <div class="reset number__reset" data-all-clear>RESET</div>
+                <div class="equal number__equal" data-equals>=</div>
+        </div>
+    </div>
+</body>
+</html>
