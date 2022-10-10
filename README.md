@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Gaius388/Calculator-app.git](https://github.com/Gaius388/Calculator-app.git)
+- Live Site URL: [https://gaius388.github.io/Calculator-app/](https://gaius388.github.io/Calculator-app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Adigun Olawale Gaius](https://github/gaius388)
+- Website - [Adigun Olawale Gaius](https://github.com/Gaius388)
 - Frontend Mentor - [@gaius388](https://www.frontendmentor.io/profile/gaius388)
 - Twitter - [@gaius38(https://www.twitter.com/gaius38)
 
